@@ -81,7 +81,7 @@ nudepy
 nekos.py
 motor
 gpytranslate
-fontTools==4.27.1
+fontTools==4.37.4
 odmantic
 tzlocal
 pendulum
